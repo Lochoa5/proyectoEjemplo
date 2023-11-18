@@ -9,7 +9,7 @@ class HomeView extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text('HomeView'),
+        child: Text('HomeView......'),
       ),
     );
   }
